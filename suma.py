@@ -1,4 +1,4 @@
-def sumando(a, b, c, d):
-    return a + b + c + d
+def sumando(b, c, d):
+    return  b + c + d
 
-print(sumando(1, 2, 3, 4))
+print(sumando(2, 3, 4))
