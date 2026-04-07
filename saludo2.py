@@ -1,4 +1,4 @@
-nombre = "juana"
+nombre = "ana"
 
 saludo = f"hola {nombre} como estas hoy?"
 
