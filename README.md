@@ -1,3 +1,3 @@
-# este repositorio trabaja git y github 
+# Este repositorio trabaja git y github 
 
-## haciendo unseguimiento del crso de dalto 
+## Haciendo un seguimiento del curso de dalto 
