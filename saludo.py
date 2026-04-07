@@ -1,4 +1,4 @@
-nombre = "ana"
+nombre = "nicolas walter"
 
 apellido = "Anders"
 
