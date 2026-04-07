@@ -1,2 +1,3 @@
-# one-repo
-repositorio de git y github
+# este repositorio trabaja git y github 
+
+## haciendo unseguimiento del crso de dalto 
