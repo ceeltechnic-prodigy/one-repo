@@ -1,4 +1,4 @@
-nombre = "nikito"
+nombre = "nico"
 
 apellido = "Anders"
 
